@@ -1,6 +1,6 @@
 # API Debug
 
-A debugging tool for API integrations, featuring weather data retrieval and storage using PostgreSQL.
+A debugging tool for API integrations, with further iterations underway.
 
 ## Description
 This project provides a Node.js-based API server that fetches real-time weather data from OpenWeatherMap and stores it in a PostgreSQL database. It serves as a foundation for debugging and extending API integrations.
